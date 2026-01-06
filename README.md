@@ -1,6 +1,6 @@
 # 🌐 NINA (News Intelligence Neural Analyzer) 
 
-[![GitHub license](https://github.com/ArniGoyal/NINA-News-Intelligence-Neural-Analyzer-)](./LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ArniGoyal/NINA-News-Intelligence-Neural-Analyzer-)](./LICENSE)
 
 NINA is a smart news verification tool that classifies articles as **real** or **fake** using state-of-the-art NLP embeddings and machine learning. By analyzing the content of news articles, it helps users identify potentially misleading information. Its accuracy is around **49%** (depending on dataset and training).  
 
